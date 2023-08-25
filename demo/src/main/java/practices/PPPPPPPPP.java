@@ -27,7 +27,7 @@ class demo {
 			{
 				System.out.print("*");
 			}
-			System.out.println();
+			System.out.println(); 	//shivaranjan
 		}
 		
 	}
